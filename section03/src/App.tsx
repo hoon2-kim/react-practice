@@ -1,6 +1,6 @@
-import Footer from './Footer';
-import Header from './Header';
-import Home from './Home';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Home from './components/Home';
 
 // 루트 컴포넌트 - App.tsx
 // 함수형 컴포넌트
