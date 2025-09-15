@@ -9,3 +9,5 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>
 );
+
+// 컴포넌트 관계에서 형제관계는 부모가 같아야만 해당이된다.
